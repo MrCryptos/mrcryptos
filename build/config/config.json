@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x263d860d4f3ca9d7e503cf33c6ddbb3a141b6106",
+  "SCAN_LINK": "https://polygonscan.com/address/0x263d860d4f3ca9d7e503cf33c6ddbb3a141b6106",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MrCryptos",
+  "SYMBOL": "MC",
+  "MAX_SUPPLY": 4000,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mrcryptos",
+  "SHOW_BACKGROUND": true
+}
